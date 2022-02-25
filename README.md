@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryinglevi
 - 👀 I’m interested in emulating elgato devcices :)
-- 🌱 I’m currently learning C# And JS
+- 🌱 I’m currently learning JS, PYTHON and Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord - CryingLevi#2284
 
