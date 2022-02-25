@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cryinglevi
-- 👀 I’m interested in emulating elgato devcices :)
+- 👀 I’m interested in Reverse Engineering and Messing around with technology that i shouldnt
 - 🌱 I’m currently learning JS, PYTHON and Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord - CryingLevi#2284
