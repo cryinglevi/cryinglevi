@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cryinglevi
 - 👀 I’m interested in Reverse Engineering and Messing around with technology that i shouldnt
-- 🌱 I’m currently learning JS, PYTHON and Ruby
-- 💞️ I’m looking to collaborate on ... Anything <3
-- 📫 How to reach me Discord - CryingLevi#2284
+- 🌱 I’m currently learning anything.
+- 💞️ I’m looking to collaborate on nothin.
+- 📫 How to reach me? Dont.
 
 <!---
 CryingLevi/CryingLevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
