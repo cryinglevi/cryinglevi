@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cryinglevi
 - 👀 I’m interested in Reverse Engineering and Messing around with technology that i shouldnt
 - 🌱 I’m currently learning anything and everything.
-- 🍺 Check out [OnlyPints App][https://onlypints.app/]
+- 🍺 Check out [OnlyPints App](https://onlypints.app/)
 - 📫 How to reach me? Dont.
 
 <!---
