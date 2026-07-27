@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5EEAD4,30:60A5FA,60:A78BFA,100:F472B6&text=LEVI%20DAVIS&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Industrial%20Automation%20×%20Software%20Engineering&descAlignY=58"/>
 
 ```
-◇ Crystal System Online
 
 Status ............... OPERATIONAL
 
@@ -22,7 +21,7 @@ Gem Alignment ........ Crystal Engineer
 
 ---
 
-# ✦ Gem Database
+# ✦ Database
 
 ```yaml
 Name: Levi Davis
